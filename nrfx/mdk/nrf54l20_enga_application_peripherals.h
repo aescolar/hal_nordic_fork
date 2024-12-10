@@ -902,6 +902,7 @@ POSSIBILITY OF SUCH DAMAGE.
 
 /*CRACEN*/
 #define CRACEN_PRESENT 1
+#define CRACEN_RNG_PRESENT 1
 #define CRACEN_COUNT 1
 
 #define CRACEN_CRYPTOACCELERATOR 1                   /*!< (unspecified)                                                        */
